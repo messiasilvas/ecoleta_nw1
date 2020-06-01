@@ -2,12 +2,12 @@
     <img src="/assets/logo.svg">
 </h1>
 
-<h1>
-    <img src="public/fullpg.PNG">
+<h1 align="center">
+    <img src="assets/ecoleta.jpg">
 </h1>
 
 <h3 align="center">
-    <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Next Week Level</a>
+    <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Semana Next Level</a>
 <h3 >
 
 # Indice
