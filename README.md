@@ -2,7 +2,7 @@
     <img src="/assets/logo.svg">
 </h1>
 
-<h1 align="center">
+<h1 align="center" style="border-radius: 8px;">
     <img src="assets/ecoleta.jpg">
 </h1>
 
