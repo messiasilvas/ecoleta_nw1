@@ -10,12 +10,6 @@
     <a href="https://nextlevelweek.com/inscricao/1?gclid=EAIaIQobChMIotuFiO_g6QIVBwiRCh0kcAbAEAAYASAAEgLgWPD_BwE">Semana Next Level #1</a>
 <h3 aligh="center">
 
-# Indice
-
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-
 # Sobre #
 
 O projeto **Ecoleta** é um site que ajuda pessoas a encontrarem pontos de coleta de lixo. Site que foi criado na semana **Next Week Level** com o intuito de introdução ao desenvolvimento web.
