@@ -36,10 +36,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/grioos/ecoleta
+    $ git clone https://github.com/messiasilvas/ecoleta_nw1
 
     # Entrar no diretório
-    $ cd ecoleta
+    $ cd ecoleta_nw1
 
     # Iniciar o projeto
     $ abrir no navegador o arquivo index.html
@@ -47,4 +47,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/messiasilvas/)
+Desenvolvido por [André Messias](https://www.linkedin.com/in/messiasilvas/)
